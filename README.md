@@ -21,4 +21,3 @@ scientific reduction, emergence, methodological individualism, social ontology, 
 ### Contacts
 
 [a@theodoreizmaylov.com](mailto:a@theodoreizmaylov.com)
-
