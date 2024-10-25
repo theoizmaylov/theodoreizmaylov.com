@@ -24,3 +24,10 @@ scientific reduction, emergence, methodological individualism, social ontology, 
 
 [a@theodoreizmaylov.com](mailto:a@theodoreizmaylov.com)
 
+### Talks
+ 
+**Should We Become Inverse Utility Monsters to Save the Environment? A Utilitarianism-Buddhism Perspective on Vulnerability**
+
+*Communicated at The International Conference “Environmental Ethics and Vulnerability in Western and/or Buddhist Philosophy”, Verona, Italy, 25 October, 2024.*
+
+[Abstract](https://theodoreizmaylov.com/pub/inverse-utility-monsters-theo-izmaylov)
