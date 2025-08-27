@@ -1,0 +1,21 @@
+# In What Sense Is Ontological Reductionism Relevant To The Methodological Individualism-Holism Debate?
+
+**[A. Theodore Izmaylov](https://theodoreizmaylov.com/), 2024.**
+
+*Keywords: individualism-holism debate; ontological reductionism; bounded epistemic subject; deflationary ontology; ontic fallacy; Laplace's demon*
+
+The methodological individualism-holism debate (Zahle & Collin, 2014) is primarily focused on how social sciences could and should be done. Nevertheless, it's seemingly unduly preoccupied with ontological arguments – as having primacy, "strong", "in principle" – while downplaying epistemological ones.
+
+For example, it's claimed that Kim's metaphysical causal exclusion argument refutes the autonomy of special sciences since they don't study real causes, that supervenience entails reducibility because only the supervenience base really exists (but see Kincaid, 1987). Conversely, the arguments about how actual and possible sciences and theories work and relate to each other are dismissed as "merely epistemological", "weak", "in practice": Fodor's multiple realisation and wild disjunction arguments are dismissed for being solely due our cognitive limitations and ignorance, Sawyer's nonreductive individualism for stating that only individuals ontologically exist, Bedau's weak emergence for being just in the mind. But the specific relation between ontology and epistemology which justifies such hierarchy, entailment and dismissal is mostly left unspecified in this literature.
+
+Moreover, "ontology" and "ontological individualism" in this debate are explicitly understood in at least two irreconcilable but often conflated ways which add a problem of coherence to questionable relevance.
+
+If "ontology" is understood as what is out there in the world, what exists independently of sciences, theories and epistemic subjects, while no account is given of how exactly it relates to doing science, then we commit the ontic fallacy (Bhaskar), fall for naive naturalism. Methodological individualism is entailed by a commitment to ontological individualism, and tautological with it, thus halting the methodological debate.
+
+If "ontology" is understood as a basic vocabulary of some science (scientific ontology) or the cumulative vocabulary of all theories then the questions of ontological reduction and individualism are indistinguishable from their epistemological counterparts. Ontological commitments in this sense are fixed by the very structure of theories (Quine, 1948) and extra work is required to transition from them to statements about the actual furniture of the world (Davidson). To still claim such deflationary ontological arguments are strong and have priority over epistemologial many resort to reasoning about supernatural beings: mathematical archangel, Laplace's demon, an immortal and all-knowing sociologist etc. If they "in principle" are capable of reduction then methodological holism should be abolished because it's only necessary "in practice" due to human limitations. The problem is, it could be methodologically relevant only if demons exist which is a much less agreeable ontological commitment than minds or groups existing.
+
+I propose an alternative relation between ontological matters and methodological individualism-holism debate which avoids tautology and demonology while keeping coherence and allowing for strong, in-principle arguments: the (ir)reducibility debate is solely epistemological since any non-trivial arguments relate to the production of knowledge; but epistemic subjects are not limited to modern humans and are instead any conceivable cognitive agents bound by ontological commitments, i.e. able to exist. I revisit the aforementioned arguments and show how they can be rendered coherent and relevant under this approach.
+
+### Accepted and scheduled for presentation at
+
+The Social Ontology 2024 Conference, Duke University, Durham, NC, USA, July 22-25, 2024. (Not presented due to visa issues)
