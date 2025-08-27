@@ -1,5 +1,9 @@
 # Durkheim on Promoting Identification With Community Through Teaching Sciences for Social Change
 
+**Conference paper abstract, [A. Theodore Izmaylov](https://theodoreizmaylov.com/), 2024.**
+
+*Keywords: Durkheim; individualism–holism debate; complexity theory; social change; philosophy of social science; science education.*
+
 In the ongoing individualism-holism debate in the philosophy of social sciences (Zahle & Collin, 2014), it is still widely accepted that the issue of political individualism is theoretically separable and a practically separate one (Udehn, 2001). Despite the rampant politically individualistic presuppositions and implications of the most successful methodologically individualist accounts – for example, Schelling’s (1971) paradigmatic model of racial residential segregation and its reception (Risjord, 2014), which purposefully and explicitly dismisses any role of social at the outset but then is seen as bases for individualistic worldview in a feat of circular logic - it is somehow still thought that such theoretical position and worldviews informed by them in no way affect the strength of identification with community and aspirations for common good.
 
 I argue that Durkheim’s sui generis position offers an original holistic take on all these issues, but its novelty, cohesion and relevance are still largely underappreciated (Jones, 2001). Durkheim’s methodological and theoretical views on individual vs social are heavily criticized for being incoherent at best (Likes, 2013) or spiritualist and dualist at worst, but sometimes, conversely, argued to be identical to modern supervenience and emergentist views (Sawyer, 2002; 2020). His methodological holism in sociology is informed by his position as a philosopher of science proper. He repeatedly emphasizes that empirically observable complexity of social and mental, as well as many natural phenomena, can not be reduced to abstract mathematical models with a few elements.

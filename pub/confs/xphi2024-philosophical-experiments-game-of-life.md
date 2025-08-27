@@ -1,6 +1,6 @@
 # Philosophical Experiments with Conway's Game of Life: Crosschecking Intuitions About Determinism and Reductionism
 
-**[A. Theodore Izmaylov](https://theodoreizmaylov.com/), 2024.**
+**Conference paper abstract, [A. Theodore Izmaylov](https://theodoreizmaylov.com/), 2024.**
 
 *Keywords: thought experiments; Conway's Game of Life; real patterns; determinism; reductionism*
 

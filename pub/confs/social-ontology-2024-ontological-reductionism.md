@@ -1,6 +1,6 @@
 # In What Sense Is Ontological Reductionism Relevant To The Methodological Individualism-Holism Debate?
 
-**[A. Theodore Izmaylov](https://theodoreizmaylov.com/), 2024.**
+**Conference paper abstract, [A. Theodore Izmaylov](https://theodoreizmaylov.com/), 2024.**
 
 *Keywords: individualism-holism debate; ontological reductionism; bounded epistemic subject; deflationary ontology; ontic fallacy; Laplace's demon*
 

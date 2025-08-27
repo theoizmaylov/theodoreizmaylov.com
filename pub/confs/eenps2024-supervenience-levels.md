@@ -1,6 +1,6 @@
 # Supervenience Does not Work on Many Levels. An Alternative Argument for Fundamental Autonomy of Special Sciences Informed by Computational Complexity
 
-**[A. Theodore Izmaylov](https://theodoreizmaylov.com/), 2024.**
+**Conference paper abstract, [A. Theodore Izmaylov](https://theodoreizmaylov.com/), 2024.**
 
 *Keywords: nonreductive physicalism; nonreductive individualism; autonomy of special sciences; weak emergence; computational complexity*
 
