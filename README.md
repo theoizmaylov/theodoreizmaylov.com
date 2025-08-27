@@ -108,6 +108,6 @@ Accepted and scheduled for presentation at **The North American Society for Soci
 
 2024, July 11.
 
-[Abstract](https://theodoreizmaylov.com/nassp-2024-durkheim-teaching-sciences)
+[Abstract](https://theodoreizmaylov.com/pub/confs/nassp-2024-durkheim-teaching-sciences)
 | [Conference website](https://www.northamericansocietyforsocialphilosophy.org/)
 | [Program](https://www.northamericansocietyforsocialphilosophy.org/wp-content/uploads/2024/05/NASSP-5.20.2024-Program.pdf)
