@@ -2,8 +2,6 @@
 
 **Conference paper abstract, [A. Theodore Izmaylov](https://theodoreizmaylov.com/), 2024.**
 
-**[A. Theodore Izmaylov](https://theodoreizmaylov.com/), 2024.**
-
 *Keywords: weak emergence, reductionism, Conway’s Game of Life, Kolmogorov complexity, algorithmic complexity, data compression, explanatory incompressibility*
 
 Bedau's (2008) weak emergence provides a philosophically viable alternative to reductionism while staying scientifically relevant. Its two definitions are based on explanatory incompressibility and underivability except by simulation and allow to claim a relative autonomy of higher-level laws and entities while staying metaphysically innocent by avoiding the need to declare their ontological novelty and discontinuity with the lower-level. Since no apriori grounds are given for the dichotomy between emergent and reducible, it permits or even requires weak emergence to come in degrees. Hovda and Berenstain suggested two opposing approaches to such quantification of weak emergence.

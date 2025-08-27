@@ -2,8 +2,6 @@
 
 **Conference paper abstract, [A. Theodore Izmaylov](https://theodoreizmaylov.com/), 2024.**
 
-**[A. Theodore Izmaylov](https://theodoreizmaylov.com/), 2024.**
-
 *Keywords: emergence; reduction; individualism–holism debate; computational complexity; Conway’s Game of Life*
 
 Reduction-emergence and individualism-holism debates in the philosophy of natural and social sciences loosely label arguments as ’weak’, ’in practice’, ’merely epistemological’ if they refer to the practice of actual or possible science by any cognitive agents in a physical world and ’strong’, ’in principle’, ’ontological’ or ’metaphysical’ even if they hold only mathematically, unbound by physical constraints. It is confused and irrelevant to science and philosophy thereof.
