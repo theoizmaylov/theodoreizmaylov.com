@@ -1,6 +1,6 @@
 # Should We Become Inverse Utility Monsters to Save the Environment? A Utilitarianism-Buddhism Perspective on Vulnerability
 
-**[A. Theodore Izmaylov](https://theodoreizmaylov.com/), 2024.**
+**Conference paper abstract, [A. Theodore Izmaylov](https://theodoreizmaylov.com/), 2024.**
 
 *Keywords: negative utilitarianism; utility monster; bodhisattva; Buddhist ethics;*
 

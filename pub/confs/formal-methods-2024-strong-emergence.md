@@ -1,5 +1,7 @@
 # What Arguments in the Reduction-Emergence and Individualism-Holism Debates Are ‘Strong’? Towards a Rigorous and Relevant Definition Informed by Computational Complexity
 
+**Conference paper abstract, [A. Theodore Izmaylov](https://theodoreizmaylov.com/), 2024.**
+
 **[A. Theodore Izmaylov](https://theodoreizmaylov.com/), 2024.**
 
 *Keywords: emergence; reduction; individualism–holism debate; computational complexity; Conway’s Game of Life*

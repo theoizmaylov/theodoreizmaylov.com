@@ -1,5 +1,7 @@
 # The Measure for Weak Emergence: Taking Data Compression Algorithms Philosophically Seriously
 
+**Conference paper abstract, [A. Theodore Izmaylov](https://theodoreizmaylov.com/), 2024.**
+
 **[A. Theodore Izmaylov](https://theodoreizmaylov.com/), 2024.**
 
 *Keywords: weak emergence, reductionism, Conway’s Game of Life, Kolmogorov complexity, algorithmic complexity, data compression, explanatory incompressibility*
