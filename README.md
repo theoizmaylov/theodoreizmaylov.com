@@ -1,6 +1,6 @@
 # A. Theodore Izmaylov
-*An independent scholar of sociology, and philosophy of social sciences*<br />
-*with a background in software engineering*
+*An independent scholar of sociology and philosophy of science*<br />
+*with background in computer science*
 
 ### Research Interests
 
@@ -12,7 +12,7 @@ I am an interdisciplinary researcher trained in sociology with a professional ba
 
 My primary research topics are the individualism–holism debate in the social sciences and, by extension, reduction and emergence in the philosophy of science, with occasional forays into philosophy of mind and other adjacent disciplines. Drawing on analytic philosophy and computational approaches, I employ theories of weak and computational emergence and make use of cellular automata and simulations as philosophical tools to address questions of theory reduction, ontological and epistemological emergence, and methodological individualism.
 
-Having graduated in 2023 as a mature student with an M.A. in Sociology from the University of Manchester, I am transitioning from a professional background in UI/UX and software engineering to interdisciplinary academic research. To brush up on the philosophical, scientific, and mathematical foundations of my work, I am currently studying Physics and Mathematics at The Open University (UK) and Philosophy and Ethics at Harvard Extension School. I am actively writing up my research for conferences and academic publications.
+Having graduated in 2023 as a mature student with an M.A. in Sociology from the University of Manchester, I am transitioning from a professional background in UI/UX and software engineering to interdisciplinary academic research. To brush up on the philosophical, scientific, and mathematical foundations of my work, I am currently taking courses in physics and mathematics at The Open University (UK) and Philosophy and Ethics at Harvard Extension School. I am actively writing up my research for conferences and academic publications.
 
 Currently based in Belgrade, Serbia. I am open to academic communication and collaboration.
 
